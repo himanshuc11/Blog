@@ -1,4 +1,3 @@
-from ast import List
 from django.urls import path
 from .views import UserLoginAPIView, UserLogoutView, RegistrationAPIView, ListUserAPIView, UserDetailAPIView
 
